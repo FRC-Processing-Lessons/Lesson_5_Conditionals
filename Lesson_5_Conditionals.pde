@@ -3,8 +3,8 @@ FRC Java Lessons Using Processing
 Lesson 5 - Conditionals
 Copyright (c) 2019 Shichao Liang
 See attached MIT license for usage rights.
-In this lesson, students will learn how to manipulate OBJECTS, and then create their own 
-blueprint for a moveable Circle object.
+In this lesson, students will learn how to manipulate OBJECTS using key events, and then 
+change the color of their circle using key events and conditionals.
 */ 
 
 /*
