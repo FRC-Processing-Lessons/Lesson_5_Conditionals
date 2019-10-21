@@ -30,7 +30,7 @@ This series will be taught using the Processing framework for easy visualization
 
 ## Lesson Overview
 
-Once the repository is cloned and the file is open in Processing, students should see 5 tasks listed. Throughout the course of this lesson, students...
+Once the repository is cloned and the file is open in Processing, students should see 4 tasks listed. Throughout the course of this lesson, students...
 
 ### Preamble:
 For this lesson, we'll be a lot less verbose than in previous directions.  Your objective is to learn how to add functionality to objects by adding methods to make them bounce!
