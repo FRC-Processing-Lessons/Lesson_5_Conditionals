@@ -19,3 +19,15 @@ blueprint for a moveable Circle object.
 */
 
 /* ------------- ALL CODE GOES BELOW HERE --------------- */
+
+void setup(){
+  
+}
+
+void draw(){
+  
+}
+
+void keyPressed(){
+  
+}
